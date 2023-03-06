@@ -1,0 +1,2 @@
+# reversed_edge_image
+python调用OpenCV实现多组动图反相边缘检测并导出
